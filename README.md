@@ -1,4 +1,4 @@
 # assignments
 this repository contains my assignments
 
-https://github.com/MarienvanLoon/assignments/blob/master/assignment2.ipynb
+[Assigment 2](https://github.com/MarienvanLoon/assignments/blob/master/assignment2.ipynb)
