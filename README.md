@@ -8,3 +8,5 @@ this repository contains my assignments
 [Assigment 4](https://github.com/MarienvanLoon/assignments/blob/master/assignment4%20(1).ipynb)
 
 [Assigment 5](https://github.com/MarienvanLoon/assignments/blob/master/Graded_assignment1%20(1).ipynb)
+
+[Assigment 6](https://github.com/MarienvanLoon/assignments/blob/master/Graded_assignment_2.ipynb)
